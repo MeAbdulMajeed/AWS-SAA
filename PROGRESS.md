@@ -8,11 +8,11 @@ Check off each hands-on lab as you complete it. Add a one-line note on anything 
 ---
 
 ## IAM & AWS CLI
-- [ ] IAM Users & Groups
-- [ ] IAM Policies
-- [ ] IAM MFA
-- [ ] AWS CLI Setup
-- [ ] IAM Roles
+- [X] IAM Users & Groups
+- [X] IAM Policies
+- [X] IAM MFA
+- [X] AWS CLI Setup
+- [X] IAM Roles
 
 ## EC2 Fundamentals
 - [ ] EC2 instance + User Data website

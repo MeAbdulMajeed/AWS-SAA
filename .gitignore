@@ -1,0 +1,6 @@
+# AWS credentials & keys
+*.pem
+*.ppk
+.aws/
+credentials
+access-keys.csv

@@ -15,11 +15,11 @@ Check off each hands-on lab as you complete it. Add a one-line note on anything 
 - [X] IAM Roles
 
 ## EC2 Fundamentals
-- [ ] EC2 instance + User Data website
-- [ ] Security Groups
-- [ ] SSH access
-- [ ] EC2 Instance Connect
-- [ ] EC2 Launch Types (On-Demand/Spot/Reserved)
+- [X] EC2 instance + User Data website
+- [X] Security Groups
+- [X] SSH access
+- [X] EC2 Instance Connect
+- [X] EC2 Launch Types (On-Demand/Spot/Reserved)
 
 ## EC2 Advanced
 - [ ] Private/Public/Elastic IP

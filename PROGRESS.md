@@ -22,10 +22,10 @@ Check off each hands-on lab as you complete it. Add a one-line note on anything 
 - [X] EC2 Launch Types (On-Demand/Spot/Reserved)
 
 ## EC2 Advanced
-- [ ] Private/Public/Elastic IP
-- [ ] Placement Groups
-- [ ] Elastic Network Interfaces (ENI)
-- [ ] EC2 Hibernate
+- [X] Private/Public/Elastic IP
+- [X] Placement Groups
+- [X] Elastic Network Interfaces (ENI)
+- [X] EC2 Hibernate
 
 ## EC2 Data Management
 - [ ] EBS basics

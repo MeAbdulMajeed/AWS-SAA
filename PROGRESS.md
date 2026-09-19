@@ -28,11 +28,11 @@ Check off each hands-on lab as you complete it. Add a one-line note on anything 
 - [X] EC2 Hibernate
 
 ## EC2 Data Management
-- [ ] EBS basics
-- [ ] EBS Snapshots
-- [ ] AMI creation
-- [ ] Amazon EFS
-- [ ] **Section cleanup done**
+- [X] EBS basics
+- [X] EBS Snapshots
+- [X] AMI creation
+- [X] Amazon EFS
+- [X] **Section cleanup done**
 
 ## High Availability & Scalability
 - [ ] Application Load Balancer (ALB)

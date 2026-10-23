@@ -35,10 +35,10 @@ Check off each hands-on lab as you complete it. Add a one-line note on anything 
 - [X] **Section cleanup done**
 
 ## High Availability & Scalability
-- [ ] Application Load Balancer (ALB)
-- [ ] Network Load Balancer (NLB)
-- [ ] ELB Sticky Sessions / SSL Certs
-- [ ] Auto Scaling Groups + Scaling Policies
+- [X] Application Load Balancer (ALB)
+- [X] Network Load Balancer (NLB)
+- [X] ELB Sticky Sessions / SSL Certs
+- [X] Auto Scaling Groups + Scaling Policies
 
 ## RDS, Aurora & ElastiCache
 - [ ] RDS setup
